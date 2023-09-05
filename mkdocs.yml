@@ -1,0 +1,19 @@
+site_name: Aplicação de redes de computadores
+site_author: Guilherme Aurélio
+theme:
+  name: material
+  language: pt
+
+repo_name: Guilherme-Aurelio/apr-2023-2/
+repo_url: https://Guilherme-Aurelio.github.io/apr-2023-2/
+
+nav:
+- index.md
+- pedra.md
+- papel.md
+- tesoura.md
+- Ensaios:
+  - ensaios/mermaid.md
+
+plugins:
+- mermaid2
